@@ -68,7 +68,7 @@ pip3 install tabulate --break-system-packages
 Run the scanner and enter a target URL when prompted:
 
 ```bash
-python3 advanced_vuln_scanner.py
+python3 sacanner_v3
 ```
 
 Example:
