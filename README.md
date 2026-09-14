@@ -42,7 +42,7 @@ Results are printed as a table showing each check, whether it is
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/<your-username>/web-vuln-scanner.git
+git clone https://github.com/ubi.sec/web-vuln-scanner.git
 cd web-vuln-scanner
 ```
 
